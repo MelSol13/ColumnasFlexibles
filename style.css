@@ -1,0 +1,27 @@
+.row{
+    display:flex;
+}
+
+.col{
+    flex:1;
+    background-color: blanchedalmond;
+    height: 100px;
+    margin: 1px;
+    margin-top: 15px;
+}
+
+.col-2{
+    flex: 2;
+    background-color: aqua;
+    height: 100px;
+    margin:1px;
+    margin-top: 15px;
+}
+
+.col-3{
+    flex: 3;
+    background-color: hotpink;
+    height: 100px;
+    margin: 1px;
+    margin-top: 15px;
+}
